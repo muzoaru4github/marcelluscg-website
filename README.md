@@ -1,1 +1,1 @@
-This is a front-end development of my business brand website and online archive portfolio.
+This is a front-end development of my business brand website and online archive portfolio. This FE Development is to be improved and advanced to assure quality and scalability as well as drive that is produceable a well maintained website page.
